@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Abhinav Khare "
+title                    : "Abhinav Khare"
 title_separator          : "-"
 name                     : &name "Abhinav Khare"
 description              : &description "personal description"
@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "Ph.D candidate in Operations Reserach"
                       
-  location         : "Buffalo, NY"
+  location         : 
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=XOywifwAAAAJ&hl=en&oi=ao"
