@@ -82,9 +82,8 @@ analytics:
 author:
   name             : "Abhinav Khare"
   avatar           : "profile.png"
-  bio              : "Ph.D candidate in Operations Reserach building applications of social sensing for disaster management. 
-                      Interested in building applications that solve challenging societal problems
-                      "
+  bio              : "Ph.D candidate in Operations Reserach building applications of social sensing for disaster management"
+                      
   location         : "Buffalo, NY"
   employer         :
   pubmed           : 
