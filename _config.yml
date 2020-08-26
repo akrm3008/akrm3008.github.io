@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Abhinav Khare"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "Ph.D. candidate in Operations Reserach"
                       
   location         : 
@@ -103,7 +103,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/abhinavkhare1/"
+  linkedin         : "abhinavkhare1"
   orcid            : 
   pinterest        :
   soundcloud       :
