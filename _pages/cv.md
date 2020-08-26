@@ -11,30 +11,26 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.E. in Industrial Engineering, Delhi College of Engineering, 2009-13
+* M.S. in Operations Research, University at Buffalo, SUNY, 2015-17
+* Ph.D. in Operations Research, University at Buffalo, SUNY, 2017-20 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* Graduate Engineer Trainee, Honda Cars India Ltd, 2013-14
+* Research Assitant, SAP Labs India, 2014-2015
+* Graduate Research Assitant, SUNY Research Foundation, 2015-2019  
+* Data Scientist Intern, NBCUniversal Media LLC, Summer 2019
+* Graduate Teaching Assitant, Applied Operations Research, Dept. of Industrial and Systems Engineering,  University at Buffalo, SUNY, Fall 2019
+* Graduate Research Assitant, SUNY Research Foundation, 2019-2020  
+ 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Machine Learning  
+* Natural Language Processing 
+* Probabilistical Modelling 
+* Mathematical Optimisations
+* Statistical Modelling 
 
 Publications
 ======
@@ -48,12 +44,6 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
