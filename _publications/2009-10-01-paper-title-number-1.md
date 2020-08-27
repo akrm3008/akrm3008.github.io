@@ -6,7 +6,7 @@ excerpt: 'This paper has developed a methodology for forecasting the shortages o
 date: 2019-08-05
 venue: 'OR Spectrum'
 paperurl: 'http://akrm3008.github.io/files/paper1.pdf'
-citation: 'Khare A, He Q, Batta R,. (2019). &quot;Predicting gasoline shortage during disasters using social media.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Khare A, He Q, Batta R,. (2019). &quot;Predicting gasoline shortage during disasters using social media.&quot; <i>OR Spectrum</i>. 693–726.'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
