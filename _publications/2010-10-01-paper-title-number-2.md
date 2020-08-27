@@ -1,7 +1,9 @@
 ---
-title: "Paper Title Number 2"
+title: "On the analysis of last-mile relief delivery on
+a tree network: Application to the 2015 Nepal
+earthquake"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: https://www.tandfonline.com/doi/abs/10.1080/01605682.2019.1708824
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2010-10-01
 venue: 'Journal 1'
