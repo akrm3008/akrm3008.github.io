@@ -7,7 +7,7 @@ nature of road networks make sensing such road geometric features a challenging 
 of varying quality of sensor data from different sources. Extensive experimental evaluation on a test route of 9km demonstrates the superior performance of our proposed method, achieving 350% improvement on road transverse slope estimation accuracy over existing methods, with 90% of errors below 0.5◦.'
 
 date: 2020-10-01
-venue: 'Accepted SIGSPATIAL 2020'
+venue: 'SIGSPATIAL 2020 (Accepted)'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 citation: 'Gupta A, Khare A, Jin H, Sadek A, Su L, Qiao C  (2020). &quot; Estimation of Road Transverse Slope Using Crowd-Sourced Data from Smartphones.&quot; <i>Accepted SIGSPATIAL 2020</i>. '
 ---
@@ -16,4 +16,4 @@ nature of road networks make sensing such road geometric features a challenging 
 of varying quality of sensor data from different sources. Extensive experimental evaluation on a test route of 9km demonstrates the superior performance of our proposed method, achieving 350% improvement on road transverse slope estimation accuracy over existing methods, with 90% of errors below 0.5◦.
 [Download paper here](http://academicpages.github.io/files/paper3.pdf)
 
-Recommended citation:Gupta A, Khare A, Jin H, Sadek A, Su L, Qiao C (2015). "Estimation of Road Transverse Slope Using Crowd-Sourced Data from Smartphones" <i>Accepted SIGSPATIAL 2020</i>. 1(3).
+Recommended citation:Gupta A, Khare A, Jin H, Sadek A, Su L, Qiao C (2015). "Estimation of Road Transverse Slope Using Crowd-Sourced Data from Smartphones" <i>SIGSPATIAL 2020 (Accepted)</i>. 1(3).
