@@ -4,9 +4,12 @@ collection: publications
 date: 2020-01-10
 venue: 'Journal of Operational Research Society'
 paperurl: 'https://www.tandfonline.com/doi/abs/10.1080/01605682.2019.1708824'
-citation: 'Khare A, Batta R, Kang, Jamie. (2020). &quot;On the analysis of last-mile relief delivery on a tree network: Application to the 2015 Nepal earthquake.&quot; <i>Journal of Operational Research Society 1</i>. 1-17.'
+citation: 'Khare A, Batta R, Kang, Jamie. (2020).
 ---
-'Abstract : The last mile delivery in humanitarian relief supply often happens on a tree or an almosttree
+
+## Abstract 
+
+The last mile delivery in humanitarian relief supply often happens on a tree or an almosttree
 network allowing split deliveries. We present a relief delivery model incorporating a tree
 network for last mile delivery. We developed a mixed integer programming (MIP) formulation
 with the goal of minimizing the unsatisfied demand of the population. For better computational
