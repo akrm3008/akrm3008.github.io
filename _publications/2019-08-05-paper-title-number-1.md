@@ -12,4 +12,3 @@ citation: 'Khare A, He Q, Batta R,. (2019). &quot;Predicting gasoline shortage d
 [Get paper here](https://link.springer.com/article/10.1007/s00291-019-00559-8) |
 [Download pre-print version of the paper](https://akrm3008.github.io/files/paper_preperint1.pdf)
 
-Recommended citation: Khare A, He Q, Batta R,. (2019). "Predicting gasoline shortage during disasters using social media" <i>OR Spectrum</i>. 693–726.
