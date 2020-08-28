@@ -21,7 +21,7 @@ author_profile: true
  <i>Journal of Operational Research Society</i>. <b>1-17</b>.
  <br>
  <br>
- <b>[Predicting gasoline shortage during disasters using social media](http://akrm3008.github.io/publications/paper1)</b> <br> 
+ <b>[Predicting gasoline shortage during disasters using social media](http://akrm3008.github.io/publications/paper1.md)</b> <br> 
  <b><i>Abhinav Khare</i></b>, Qing He, Rajan Batta.<br>
  <i>OR Spectrum</i>. <b>693–726</b>.
  <br>
