@@ -4,7 +4,7 @@ collection: publications
 date: 2021-01-01
 venue: 'submitted to Management Science'
 paperurl: 'http:///akrm3008.github.io/files/paper4.pdf'
-citation: 'Khare, A., Batta R., Qing He.,(2021). &quot;Using Social Media to Enhance the Search for Gasoline During a Hurricane Evacuation Event.&quot; <i>submitted to Management Science<i>'
+citation: 'Khare, A., Batta R., Qing He.,(2021). &quot;Using Social Media to Enhance the Search for Gasoline During a Hurricane Evacuation Event.&quot; <i>submitted to Management Science</i>'
 ---
 [Pre-print](http:///akrm3008.github.io/files/paper4.pdf)
 
