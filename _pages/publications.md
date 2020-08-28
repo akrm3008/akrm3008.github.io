@@ -1,4 +1,10 @@
-<br>
+---
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
+
+ <br>
  <br>
  <b>[Using Social Media to Enhance the Search for Gasoline During a Hurricane Evacuation Event](http://akrm3008.github.io/publications/paper4)</b> <br> 
  <b><i>Abhinav Khare</i></b>, Rajan Batta, Qing He.<br>
