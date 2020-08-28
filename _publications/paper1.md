@@ -5,7 +5,7 @@ permalink: https://link.springer.com/article/10.1007/s00291-019-00559-8
 date: 2019-08-05
 venue: 'OR Spectrum'
 paperurl: 'https://link.springer.com/article/10.1007/s00291-019-00559-8'
-citation: '<b><i>Abhinav Khare</i></b>, Qing He, Rajan Batta,.'
+citation: 'Khare, A., He, R., Batta, R., (2019). &quot;Predicting gasoline shortage during disasters using social media.&quot; <i>OR Spectrum</i>. 693–726.'
 ---
 [Get paper here](https://link.springer.com/article/10.1007/s00291-019-00559-8) |
 [Pre-print](https://akrm3008.github.io/files/paper_preperint1.pdf)
