@@ -23,6 +23,6 @@ computation time. To demonstrate the application of our approach we applied our 
 to the humanitarian logistics relief operation encountered in the 2015 Nepal earthquake.'
 
 [Get paper here](https://www.tandfonline.com/doi/abs/10.1080/01605682.2019.1708824) |
-[Download pre-print version of the paper](https://akrm3008.github.io/files/paper_preperint2.pdf)
+[Pre-print](https://akrm3008.github.io/files/paper_preperint2.pdf)
 
 
