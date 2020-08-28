@@ -5,7 +5,7 @@ permalink: http://akrm3008.github.io/files/paper3.pdf
 date: 2020-10-01
 venue: 'SIGSPATIAL 2020 (Accepted)'
 paperurl: 'http://akrm3008.github.io/files/paper3.pdf'
-citation: 'Gupta A, Khare A, Jin H, Sadek A, Su L, Qiao C  (2020). &quot; Estimation of Road Transverse Slope Using Crowd-Sourced Data from Smartphones.&quot; <i>SIGSPATIAL 2020 (Accepted)</i>.
+citation: 'Gupta A, Khare A, Jin H, Sadek A, Su L, Qiao C  (2020). &quot; Estimation of Road Transverse Slope Using Crowd-Sourced Data from Smartphones.&quot; <i>SIGSPATIAL 2020 (Accepted)</i>.'
 ---
 
 [Pre-print](http://akrm3008.github.io/files/paper3.pdf)
