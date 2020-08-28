@@ -1,7 +1,6 @@
 ---
 title: "Estimation of Road Transverse Slope Using Crowd-Sourced Data from Smartphones"
 collection: publications
-permalink: http://akrm3008.github.io/files/paper3.pdf
 date: 2020-10-01
 venue: 'SIGSPATIAL 2020 (Accepted)'
 paperurl: 'http://akrm3008.github.io/files/paper3.pdf'
