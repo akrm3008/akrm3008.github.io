@@ -5,7 +5,7 @@ permalink: https://link.springer.com/article/10.1007/s00291-019-00559-8
 date: 2019-08-05
 venue: 'OR Spectrum'
 paperurl: 'https://link.springer.com/article/10.1007/s00291-019-00559-8'
-citation: '<b><i>Sandesh G. Bhat</i></b>, Thomas G. Sugar, Sangram Redkar.'
+citation: '<b><i>Abhinav Khare</i></b>, Qing He, Rajan Batta,.'
 ---
 
 ## Abstract 
