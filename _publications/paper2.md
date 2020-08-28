@@ -7,6 +7,9 @@ paperurl: 'https://www.tandfonline.com/doi/abs/10.1080/01605682.2019.1708824'
 citation: 'Khare, A., Batta, R., Kang, J. (2009). &quot;On the analysis of last-mile relief delivery on a tree network: Application to the 2015 Nepal earthquake.&quot; <i>Journal of Operational Research Society</i>. 1-17.'
 ---
 
+[Get paper here](https://www.tandfonline.com/doi/abs/10.1080/01605682.2019.1708824) |
+[Pre-print](https://akrm3008.github.io/files/paper_preperint2.pdf)
+
 ## Abstract 
 
 The last mile delivery in humanitarian relief supply often happens on a tree or an almosttree
@@ -22,7 +25,6 @@ solution. This decomposition scheme resulted in a further order of magnitude red
 computation time. To demonstrate the application of our approach we applied our model
 to the humanitarian logistics relief operation encountered in the 2015 Nepal earthquake.'
 
-[Get paper here](https://www.tandfonline.com/doi/abs/10.1080/01605682.2019.1708824) |
-[Pre-print](https://akrm3008.github.io/files/paper_preperint2.pdf)
+
 
 
