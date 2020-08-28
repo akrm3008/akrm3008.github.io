@@ -1,8 +1,7 @@
 ---
 title: "Predicting gasoline shortage during disasters using social media"
 collection: publications
-permalink: https://link.springer.com/article/10.1007/s00291-019-00559-8
-date: 2019-08-05
+date: 2020-01-10
 venue: 'OR Spectrum'
 paperurl: 'https://link.springer.com/article/10.1007/s00291-019-00559-8'
 citation: 'Khare, A., He, R., Batta, R., (2019). &quot;Predicting gasoline shortage during disasters using social media.&quot; <i>OR Spectrum</i>. 693–726.'
