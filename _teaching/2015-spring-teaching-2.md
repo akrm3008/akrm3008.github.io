@@ -1,20 +1,15 @@
 ---
-title: "Teaching experience 2"
+title: " Matlab, IE 500 - Introduction to Operations Research"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Graduate course"
+permalink: /teaching/2019-fall-teaching-2
+venue: "University at Buffalo, Department of Industrial and Systems Engineering"
+date: 2019-09-20
+location: "Buffalo, New York"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Taught graduate students of IE-500 how to code algorithms in Matlab and solve Network Flow problems.
 
-Heading 1
-======
 
-Heading 2
-======
 
-Heading 3
-======
+
