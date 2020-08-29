@@ -7,10 +7,10 @@
 
 # Site Settings
 # Site Settings
-plugins:
-  - jekyll-remote-theme
-  : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+#plugins:
+#  - jekyll-remote-theme
+#  : "mmistakes/minimal-mistakes"
+#minimal_mistakes_skin : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 
 locale                   : "en-US"
