@@ -15,3 +15,5 @@ nature of road networks make sensing such road geometric features a challenging 
 of varying quality of sensor data from different sources. Extensive experimental evaluation on a test route of 9km demonstrates the superior performance of our proposed method, achieving 350% improvement on road transverse slope estimation accuracy over existing methods, with 90% of errors below 0.5◦.
 
 
+
+<iframe src="/files/paper3.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
