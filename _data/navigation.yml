@@ -7,11 +7,11 @@ main:
   - title: "Talks"
     url: /talks/     
     
-  - title: "CV"
-    url: /cv/
-    
   - title: "Resume"
     url: /resume/
+    
+  - title: "CV"
+    url: /cv/
         
   - title: "Blog Posts"
     url: /year-archive/
