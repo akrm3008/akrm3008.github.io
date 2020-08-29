@@ -8,7 +8,7 @@ citation: 'Khare, A., He, R., Batta, R., (2019). &quot;Predicting gasoline short
 ---
 
 [Get paper here](https://link.springer.com/article/10.1007/s00291-019-00559-8) |
-[Pre-print](https://akrm3008.github.io/files/paper_preperint1.pdf)
+[Pre-print](https://akrm3008.github.io/files/paper_preprint1.pdf)
 
 
 ## Abstract 
@@ -18,4 +18,4 @@ Shortage of gasoline is a common phenomenon during onset of forecasted disasters
 
 
 
-<iframe src="/files/paper_preperint1.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+<iframe src="/files/paper_preprint1.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
