@@ -8,7 +8,7 @@ citation: 'Khare, A., Batta, R., Kang, J. (2009). &quot;On the analysis of last-
 ---
 
 [Get paper here](https://www.tandfonline.com/doi/abs/10.1080/01605682.2019.1708824) |
-[Pre-print](https://akrm3008.github.io/files/paper_preperint2.pdf)
+[Pre-print](https://akrm3008.github.io/files/paper_preprint2.pdf)
 
 ## Abstract 
 
@@ -27,4 +27,4 @@ to the humanitarian logistics relief operation encountered in the 2015 Nepal ear
 
 
 
-
+<iframe src="/files/paper_preprint2.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
