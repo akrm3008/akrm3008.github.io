@@ -18,7 +18,7 @@ Education
 Work experience
 ======
 * Graduate Research Assitant, SUNY Research Foundation, 2019-2020 
-* Graduate Teaching Assitant, Applied Operations Research, Dept. of Industrial and Systems Engineering,  University at Buffalo, SUNY, Fall 2019
+* Graduate Teaching Assitant, Applied Operations Research (IE-500), Dept. of Industrial and Systems Engineering, UB, Fall 2019
 * Data Scientist Intern, NBCUniversal Media LLC, Summer 2019
 * Graduate Research Assitant, SUNY Research Foundation, 2015-2019  
 * Research Assitant, SAP Labs India, 2014-2015
