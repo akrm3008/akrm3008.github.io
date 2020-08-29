@@ -44,6 +44,11 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-
-  
+Awards
+======
+* Summa Cum Laude Honors at INFROMS 2017 secretary of student chapter of INFORMS at University at Buffalo for 2017-18
+* Magna Cum Laude Honors at INFORMS 2018 secretary of student chapter of INFORMS at University at Buffalo for 2018-19
+* Winner of MIT Solve at United Nation's Socio-Economic Council 2017
+* Finalist at the Formula Student, Silverstone, UK, July 2012
+* Winner, Junior Science Talent Search Examination, Indian 2007
 
