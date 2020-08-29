@@ -52,3 +52,10 @@ Awards
 * Finalist at the Formula Student, Silverstone, UK, July 2012
 * Winner, Junior Science Talent Search Examination, Indian 2007
 
+Positions of Responsibility
+======
+* President, Graduate Student Association, Department of Industrial Systems Engineering, UB for 2017-2018
+* Secretary, INOFRMS Student Chapter at University at Buffalo from 2017-2019
+
+
+
