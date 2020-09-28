@@ -8,7 +8,7 @@ author_profile: true
  <br>
  <b>[Using Social Media to Enhance the Search for Gasoline During a Hurricane Evacuation Event](http://akrm3008.github.io/publications/paper4)</b> <br> 
  <b><i>Abhinav Khare</i></b>, Rajan Batta, Qing He.<br>
- <i>Management Science</i> <b>1-17</b>.
+ <i> submitted to Management Science</i></b>.
  <br>
  <br>
  <b>[Estimation of Road Transverse Slope Using Crowd-Sourced Data from Smartphones](http://akrm3008.github.io/publications/paper3)</b> <br> 
