@@ -1,7 +1,7 @@
 ---
 title: "Using Social Media to Enhance the Search for Gasoline During a Hurricane Evacuation Event"
 collection: publications
-date: 2021-01-01
+date: 2020-01-01
 venue: 'submitted to Management Science'
 citation: 'Khare, A., Batta R., Qing He.,(2020). &quot;Using Social Media to Enhance the Search for Gasoline During a Hurricane Evacuation Event.&quot; <i>submitted to Management Science</i>'
 ---
