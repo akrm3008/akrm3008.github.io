@@ -1,11 +1,10 @@
 ---
 layout: archive
-title: "Research Interests"
+title: "Research"
 permalink: /research/
 author_profile: true
 ---
 
-## Research Philosophy
 
 My research philosophy is driven by the two primary motivations : <br />
 1. Building solution methods to real world problems which have big social impact. 
@@ -16,7 +15,7 @@ To this end, I have focussed my effort in research areas like healthcare, disast
 
 ## Social Sensing for Managing Essential Commodities during Disasters and Emergenices
 
-Shortage of essential commodities is commonly observed when a disaster or epidemic is announced. For instance, shortage of gasoline was observed prior to the landfall of Hurricane Irma in Florida (2017)  and  after  the  landfall  of  Hurricane  Sandy  in  New  York/New  Jersey (2012).  When  the COVID-19 pandemic unfolded in the United States in March 2020, a large number of stores ranout of essential commodities such as hand sanitizers and face masks.  An accurate prediction of the surges in demand and subsequent shortages could help the authorities and the first responders plan better. It would give time to arrange for the additional supplies and  infrastructure  for  pre-positioning,  re-positioning  and  directing  supplies  in  the  impacted  area. An accurate estimation found  
+Shortage of essential commodities is commonly observed when a disaster or epidemic is announced. For instance, shortage of gasoline was observed prior to the landfall of Hurricane Irma in Florida (2017)  and  after  the  landfall  of  Hurricane  Sandy  in  New  York/New  Jersey (2012).  When the COVID-19 pandemic unfolded in the United States in March 2020, a large number of stores ran out of essential commodities such as hand sanitizers and face masks.  An accurate prediction of the surges in demand and subsequent shortages could help the authorities and the first responders plan better. It would give time to arrange for the additional supplies and  infrastructure  for  pre-positioning,  re-positioning  and  directing  supplies  in  the  impacted  area. An accurate estimation found  
 
 
 
