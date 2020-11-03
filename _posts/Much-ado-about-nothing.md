@@ -13,7 +13,7 @@ An interesting fundamental question in metaphysics is - “Why is there somethin
 
 What does it mean when we say something exists? My first thought is that something exists for an observer basis of the properties that the observer can identify it with. Can anything exist for us without it having some properties that we use to identify it with? For example, let’s take this thing that I have drawn. It exists for me. I identify it as something “black”, “circular” with some “radius”. I call it a “dot”. This “dot” exists with these properties. I take each property out one by one and I take the “dot” out with it. It ceases to exist without these properties observed by an observer.
 
-                                                                      *
+*                                                                    
  
 Does this mean that the existence of this object is contingent on its properties and an observer of these properties. Let’s take it one at a time. Let’s focus on the property first. This is black and circular for me. Now, imagine, a snake looking at the screen. I wonder if it sees anything. A snake sees in infrared. Whatever it sees, certainly it won’t see it as a black and circular object. Properties are subjective to the observer. While an object is by definition objective. An object should be ontologically more fundamental than its properties. I mean to to say it’s properties exist because the object exists and not the other way round.
 
