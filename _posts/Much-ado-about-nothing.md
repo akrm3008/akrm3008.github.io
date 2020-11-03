@@ -8,8 +8,6 @@ tags:
   - category2
 ---
 
-Much ado about nothing
-======
 
 An interesting fundamental question in metaphysics is - “Why is there something instead of nothing?” When I sit to ponder about this I have a thousand other questions. What does nothing even mean? Absence of absolutely anything we consider as something is nothing ? Right? I feel, to have a go at this question, one needs to first understand what does it mean when one says something exists.
 
