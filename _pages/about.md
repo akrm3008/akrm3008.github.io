@@ -10,7 +10,6 @@ redirect_from:
 ---
 
 
-<div style="text-align: justify"> your-text-here </div>
 Hi! Welcome to my website.
 
 I am a Ph.D. candidate in the Department of Industrial and Systems Engineering at University at Buffalo, SUNY. I am advised by Dr. Rajan Batta and Dr. Qing He.
