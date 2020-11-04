@@ -28,10 +28,7 @@ Such tweets were observed from Sept 6th, 2017 when evacuation zones were annouce
 
 
 
-
-
-
-
+Apart from my doctoral research, I am interested in building tools that solve problems in other domains as well. As Research Assitant in Project Genomics, a [collaboration](https://www.gadgetsnow.com/it-services/SAPs-maiden-India-product-to-go-global/articleshow/39889394.cms) between [ACTREC](https://actrec.gov.in/home) and [SAP Labs](https://www.sap.com/india/about.saplabsindia.html) I built a ML tool that could identify driver mutations (cancer causing mutations) and passenger mutations in genomics data for different cancer types. My master's thesis was focussed on humanitarian logistics, specifically, in development of [efficient solution methods](https://akrm3008.github.io/publications/paper2/) for a relief supply model on a tree network. Recently, I have also collaborated with the [ICAVE](https://icave2.cse.buffalo.edu/index.htm), the connected and autonomous vehicles group at UB and developed a [method for estimation of road transverse slope](https://akrm3008.github.io/publications/paper3/) using Crowd-Sourced data from smartphones. In my internship at NBCUniversal, I developed a [methodology for dynamic pricing](https://akrm3008.github.io/talks/2019-10-26-talk-6).
 
 
 
