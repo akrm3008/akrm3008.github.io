@@ -21,7 +21,7 @@ Shortage of essential commodities is commonly observed when a disaster or epidem
 
 *"The shelters are full, there is **no gas**. Tornados could happen, and storm surge is predicted. So what are people supposed to do? #Irma"*<br />
 *"Insane..95 percent of Florida trying to leave at one time. Roads r slammed. **No gas**. No hotels available. Scared!!!"*<br />
-*"Gas stations **out of gas**, water shelves empty, stores and airports closed. Stocked up on food and wine, waiting on irma*"
+*"Gas stations **out of gas**, water shelves empty, stores and airports closed. Stocked up on food and wine, waiting on irma"*
 
 The following figure describes the spatio temporal distribution of tweets. We wanted to explore if the these tweets can act as sensors for detecting the locations and times of this shortage. We also wanted to build a methodology to forecast future shortages given the current signal about shortage from social media. 
 
