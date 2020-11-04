@@ -26,7 +26,7 @@ Shortage of essential commodities is commonly observed when a disaster or epidem
 The following figure describes the spatio temporal distribution of tweets. We wanted to explore if the these tweets can act as sensors for detecting the locations and times of this shortage. We also wanted to build a methodology to forecast future shortages given the current signal about shortage from social media. 
 
 
-<img align="middle" src="https://akrm3008.github.io/files/web2.png?raw=true" alt="Photo" style="width: 1000px; border-radius: 10px; padding: 8px 8px 8px 8px"/> 
+<img align="middle" src="https://akrm3008.github.io/images/web2.png?raw=true" alt="Photo" style="width: 1000px; border-radius: 10px; padding: 8px 8px 8px 8px"/> 
 
 
 
