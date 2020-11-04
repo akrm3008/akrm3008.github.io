@@ -10,7 +10,7 @@ redirect_from:
 
 Hi! Welcome to my website.
 
-I am a Ph.D. candidate in Operations Research at University at Buffalo, SUNY. I am advised by Dr. Rajan Batta and Dr. Qing He.
+I am a Ph.D. candidate in Operations Research at University at Buffalo, SUNY. I am advised by [Dr. Rajan Batta](http://engineering.buffalo.edu/home/school/about/people/rajan-batta.html) and [Dr. Qing He](http://engineering.buffalo.edu/civil-structural-environmental/people/faculty_directory/qing-he.html)
 
 My doctoral research is funded by National Science Foundation for development of methods of [social sensing during disasters](https://nsf.gov/awardsearch/showAward?AWD_ID=1663101&HistoricalAwards=false) for better management of essential supplies. I develop [Natural Language Processing methodolgies](https://akrm3008.github.io/publications/paper1/) that convert noisy information on social media platforms during crisis into actionable information. Further, I develop  [decision making models](https://akrm3008.github.io/publications/paper4/) using tecniques of Operations Research that use this information from social media to determine optimal decisions for people affetcted by disasters, first responders and decision making authorities. These I have applied these methods for managing of gasoline during crisis like Hurricane Irma. Currently, I am developing a [reinforcement learning based solution](https://github.com/akrm3008/Covid-19-PPE-Distribution) for dynamic supply and re-distribution of PPE's to different demand points during a Covid-19 like Pandemic.
 
