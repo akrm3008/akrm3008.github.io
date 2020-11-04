@@ -1,4 +1,3 @@
-
 ---
 permalink: /
 title: "About Me"
@@ -8,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 
 Hi! Welcome to my website.
 
