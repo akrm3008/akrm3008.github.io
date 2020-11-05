@@ -25,7 +25,7 @@ Shortage of essential commodities is commonly observed when a disaster or epidem
 
 The following figure describes the spatio temporal distribution of tweets. We wanted to explore if the these tweets can act as sensors for detecting the locations and times of this shortage. The first challenge was to first detect the sensors themselves from the massive amount of information on twitter.
 
-<img align="middle" src="https://akrm3008.github.io/images/web5.png?raw=true" alt="Photo" style="width: 1000px; border-radius: 10px; padding: 8px 8px 8px 8px"/> 
+<img align="middle" src="https://akrm3008.github.io/images/web5.png?raw=true" alt="Photo" style="width: 700px; border-radius: 10px; padding: 8px 8px 8px 8px"/> 
 
 # Detecting Social Media Posts that Signal Shortage
 
@@ -37,15 +37,15 @@ We experimented with multiple models to develop a classifier that automates the 
 
 Both the number of tweets about gas shortage on a day and the number of gas stations out of gas on the next day in a given city followed a Poisson distribution. We found the the number of tweest along with some other variables like distance from Hurricane, wind speed, evacuation order could prdict the number of gas stations ont the next day using Poisson Regression. There time varying correlation also and ARIMA could explain the variance. We developed a convex hybrid loss function (HLF) that combined ARIMA and Poisson Regression and performed gradient descent on a training set. We could explain greater variance then ARIMA and Poisson Regression using this method and could forecast shortages of gasoline in cities of Florida 1-dy ahead and achieved MAPE of 22% improving over ARIMA (30%) and Poisson Regression (25%).
 
-<img align="middle" src="https://akrm3008.github.io/images/web8.png?raw=true" alt="Photo" style="width: 1000px; border-radius: 10px; padding: 8px 8px 8px 8px"/> 
+<img align="middle" src="https://akrm3008.github.io/images/web8.png?raw=true" alt="Photo" style="width: 800px; border-radius: 10px; padding: 8px 8px 8px 8px"/> 
 
 # Localisation of Shortge using Inference on Large Bayesian Networks
 
 Further, we explored if it is possible to localise the shortage to individual gas stations using the tweets as sensors. We developed a Bayesian network to infer the probability of shortage at a gas station at a given time on the basis of distance and time of the tweet of shortage. We modeled the distance between observation of shortage and the tweet about shortage and developed a bayesian network and CPDs as shown in the figure. O_{it} is a Bernoulli random variable for the probability distribution of the observation of shortage at location i at time t. S_{it} is a Bernoulli random variable for the probability distribution of shortage at location i at time t. D_{p} is the random variable for the distance between post p about shortage and the observation of shortage. T_{p} is the random variable for the time between post p about shortage and the observation of shortage.
 
-<img align="middle" src="https://akrm3008.github.io/images/web9.png?raw=true" alt="Photo" style="width: 1000px; border-radius: 10px; padding: 8px 8px 8px 8px"/> 
+<img align="middle" src="https://akrm3008.github.io/images/web9.png?raw=true" alt="Photo" style="width: 800px; border-radius: 10px; padding: 8px 8px 8px 8px"/> 
 
- <img align="middle" src="https://akrm3008.github.io/images/web10.png?raw=true" alt="Photo" style="width: 1000px; border-radius: 10px; padding: 8px 8px 8px 8px"/>
+ <img align="middle" src="https://akrm3008.github.io/images/web10.png?raw=true" alt="Photo" style="width: 600px; border-radius: 10px; padding: 8px 8px 8px 8px"/>
 
 # Optimising the Gasoline Search Path for Evacuators 
 
