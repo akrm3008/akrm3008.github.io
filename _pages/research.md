@@ -25,13 +25,13 @@ Shortage of essential commodities is commonly observed when a disaster or epidem
 
 The following figure describes the spatio temporal distribution of tweets. We wanted to explore if the these tweets can act as sensors for detecting the locations and times of this shortage. The first challenge was to first detect the sensors themselves from the massive amount of information on twitter.
 
-<img align="middle" src="https://akrm3008.github.io/images/web5.png?raw=true" alt="Photo" style="width: 1000px; border-radius: 10px; padding: 8px 8px 8px 8px"/> 
+<img align="middle" src="https://akrm3008.github.io/images/web5.png?raw=true" alt="Photo" style="width: 700px; border-radius: 10px; padding: 8px 8px 8px 8px"/> 
 
 ## Detecting Social Media Posts that Signal Shortage
 
 We experimented with multiple models to develop a classifier that automates the process of detecting such posts in future disasters. In our case study with Hurricane Irma, we found that sub-topcs identified using correlated topic models served as best features for a [Support Vector Machines](https://github.com/akrm3008/gasoline/blob/master/tweet_classification.R) model beat a [bag-of-words model](https://github.com/akrm3008/gasoline/blob/master/tweet_classification.R) (unigrams with SVM) and a [Recurrent Neural Network](https://github.com/akrm3008/deep-gasoline) architecture in cross validation performace. The 5 unigrams that were part of the best classifier were *"gas, get, line, out, station"*. Topic 1 is about people tweeting that they cannot find gasoline due to Irma. On the other hand, Topic 2 is about people tweeting that gas stations are closed and they need gas. Topic 3 is about no gasoline being there in Miami. Topic 4 is about waiting in line for gasoline because of Irma.492Lastly, topic 5 is about high gasoline prices.
 
-<img align="middle" src="https://akrm3008.github.io/images/web6.png?raw=true" alt="Photo" style="width: 1000px; border-radius: 10px; padding: 8px 8px 8px 8px"/> 
+<img align="middle" src="https://akrm3008.github.io/images/web6.png?raw=true" alt="Photo" style="width: 700px; border-radius: 10px; padding: 8px 8px 8px 8px"/> 
 
 
 ## Forecasting Future Shortage of Essential Commodities
