@@ -11,7 +11,7 @@ author_profile: true
  Held officer hours and graded assignments and exams 
 
 ## Teaching Assitant, Engineering Economics (IE 320)
-IE 320 is an undergraduate course at Department of Industrial & Systems Engineering, University at Buffalo, SUNY <br />
+IE 320 is an undergraduate course at Department of Industrial & Systems Engineering, UB <br />
 Held office hours and graded exams, assignments and projects 
  
 ## Python Workshop
