@@ -37,7 +37,7 @@ We experimented with multiple models to develop a classifier that automates the 
 
 Both the number of tweets about gas shortage on a day and the number of gas stations out of gas on the next day in a given city followed a Poisson distribution. We found the the number of tweest along with some other variables like distance from Hurricane, wind speed, evacuation order could prdict the number of gas stations ont the next day using Poisson Regression. There time varying correlation also and ARIMA could explain the variance. We developed a convex hybrid loss function (HLF) that combined ARIMA and Poisson Regression and performed gradient descent on a training set. We could explain greater variance then ARIMA and Poisson Regression using this method and achieve MAPE of 22% improving over ARIMA (30%) and Poisson Regression (25%).
 
-<img align="middle" src="https://akrm3008.github.io/images/web5.png?raw=true" alt="Photo" style="width: 600px; border-radius: 10px; padding: 8px 8px 8px 8px"/> 
+<img align="middle" src="https://akrm3008.github.io/images/web8.png?raw=true" alt="Photo" style="width: 600px; border-radius: 10px; padding: 8px 8px 8px 8px"/> 
 
 
 ## Localisation of Shortge using Inference on Large Bayesian Networks
