@@ -13,7 +13,7 @@ My research philosophy is driven by the two primary motivations :
 1. Building solution methods to real world problems which have a social impact 
 2. Building solution methods with practical applicability.
 
-I have foucssed my research in areas like disaster mangement and healthcare which have high social impact. I believe, to increase the applicability of decision models from literature of Operations Research in the real world, they must be able incorporate real-time actionable information. Advances in information processing and machine learning have led to massive improvements in perception tasks of AI like computer vision and natural language processing. Decision models can greatly benifit from these advances as information processed from these AI models are potential sources of actionable information to be incrporated in mathematical models for real-time decision making. In my doctoral research, I used this approach in improving real-time decisions for disaster management. I applied Natural Language Processing on social media to gather actionable information and develop decision models that utilise this information and make optimal decision for disaster planning. Following is a short description of my research.
+To this end, I have foucssed my research in areas like disaster mangement and healthcare which have high social impact. I believe, to increase the applicability of decision models from literature of Operations Research in the real world, they must be able incorporate real-time actionable information. Advances in information processing and machine learning have led to massive improvements in perception tasks of AI like computer vision and natural language processing. Decision models can greatly benifit from these advances as information processed from these AI models are potential sources of actionable information to be incrporated in mathematical models for real-time decision making. In my doctoral research, I used this approach in improving real-time decisions for disaster management. I applied Natural Language Processing on social media to gather actionable information and develop decision models that utilise this information and make optimal decision for disaster planning. Following is a short description of my research.
 
 ## Shortage of Essential Commodities during Disasters and Role of Social Media
 
@@ -33,14 +33,26 @@ We experimented with multiple models to develop a classifier that automates the 
 
 <img align="middle" src="https://akrm3008.github.io/images/web6.png?raw=true" alt="Photo" style="width: 600px; border-radius: 10px; padding: 8px 8px 8px 8px"/> 
 
-
 ## Forecasting Future Shortage of Essential Commodities
 
-Both the number of tweets about gas shortage on a day and the number of gas stations out of gas on the next day in a given city followed a Poisson distribution. We found the the number of tweest along with some other variables like distance from Hurricane, wind speed
+Both the number of tweets about gas shortage on a day and the number of gas stations out of gas on the next day in a given city followed a Poisson distribution. We found the the number of tweest along with some other variables like distance from Hurricane, wind speed, evacuation order could prdict the number of gas stations ont the next day using Poisson Regression. There time varying correlation also and ARIMA could explain the variance. We developed a convex hybrid loss function (HLF) that combined ARIMA and Poisson Regression and performed gradient descent on a training set. We could explain greater variance then ARIMA and Poisson Regression using this method and achieve MAPE of 22% improving over ARIMA (30%) and Poisson Regression (25%).
+
+<img align="middle" src="https://akrm3008.github.io/images/web7.png?raw=true" alt="Photo" style="width: 600px; border-radius: 10px; padding: 8px 8px 8px 8px"/> 
+
+
+## Localisation of Shortge using Inference on Large Bayesian Networks
 
 
 
 
 
+
+## Optimising the Gasoline Search Path for Evacuators 
+
+
+
+
+
+## Dynamic Supply and Redistribution of Essential Commodities (PPE's) according to changing demand
 
 
