@@ -42,8 +42,7 @@ Both the number of tweets about gas shortage on a day and the number of gas stat
 
 ## Localisation of Shortge using Inference on Large Bayesian Networks
 
-Further, we wanted explore
-
+Further, we wanted 
 
 
 
