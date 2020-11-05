@@ -39,13 +39,13 @@ Both the number of tweets about gas shortage on a day and the number of gas stat
 
 <img align="middle" src="https://akrm3008.github.io/images/web8.png?raw=true" alt="Photo" style="width: 1000px; border-radius: 10px; padding: 8px 8px 8px 8px"/> 
 
-
 # Localisation of Shortge using Inference on Large Bayesian Networks
 
-Further, we explored if it is possible to localise the shortage to individual gas stations using the tweets as sensors. We modeled the distance and time between observation of shortage and tweet about shortage 
+Further, we explored if it is possible to localise the shortage to individual gas stations using the tweets as sensors. We developed a Bayesian network to infer the probability of shortage at a gas station at a given time on the basis of distance and time of the tweet of shortage. We modeled the distance between observation of shortage and the tweet about shortage and developed a bayesian network and CPDs as shown in the figure. O_{it} is a Bernoulli random variable for the probability distribution of the observation of shortage at location i at time t. S_{it} is a Bernoulli random variable for the probability distribution of shortage at location i at time t. D_{p} is the random variable for the distance between post p about shortage and the observation of shortage. T_{p} is the random variable for the time between post p about shortage and the observation of shortage.
 
+<img align="middle" src="https://akrm3008.github.io/images/web9.png?raw=true" alt="Photo" style="width: 1000px; border-radius: 10px; padding: 8px 8px 8px 8px"/> 
 
-
+ <img align="middle" src="https://akrm3008.github.io/images/web10.png?raw=true" alt="Photo" style="width: 1000px; border-radius: 10px; padding: 8px 8px 8px 8px"/>
 
 # Optimising the Gasoline Search Path for Evacuators 
 
