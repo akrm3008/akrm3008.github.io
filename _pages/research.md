@@ -41,7 +41,7 @@ We also explored if these tweets had the potential to forecast the shortage leve
 
 # Localisation of Shortge using Inference on Large Bayesian Networks
 
-Further, we explored if it is possible to localise the shortage to individual gas stations using the tweets as sensors. We developed a Bayesian network to infer the probability of shortage at a gas station at a given time on the basis of distance and time of the tweet of shortage. We modeled the distance and time between observation of shortage and the tweet about shortage as exponential random variables and developed a bayesian network and CPDs . We solved the Bayesian Network and calculated the posterior probabilities of shortage using MCMC sampling methods. This methodology accurately predicted the number of stations out of gas in Florida.
+Further, we explored if it is possible to localise the shortage to individual gas stations using the tweets as sensors. We developed a Bayesian network to infer the probability of shortage at a gas station at a given time on the basis of distance and time of the tweet of shortage. We modeled the distance and time between observation of shortage and the tweet about shortage as exponential random variables and developed a [bayesian network and CPDs](https://github.com/akrm3008/essential-search/blob/master/bayesian_model.py) . We solved the Bayesian Network and calculated the posterior probabilities of shortage using [MCMC sampling methods](https://github.com/akrm3008/essential-search/blob/master/bayesian_model.py). This methodology accurately predicted the number of stations out of gas in Florida.
 
  <img align="middle" src="https://akrm3008.github.io/images/web10.png?raw=true" alt="Photo" style="width: 600px; border-radius: 10px; padding: 8px 8px 8px 8px"/>
 
@@ -51,7 +51,7 @@ Many people trying to evacuate Florida during Hurricane Irma were not able to fi
 
 <img align="middle" src="https://akrm3008.github.io/images/web11.png?raw=true" alt="Photo" style="width: 600px; border-radius: 10px; padding: 8px 8px 8px 8px"/> 
 
-We developed mixed integer programs for both the models. Since the objectives were non-linear, we developed a modified branch and bound to solve the MIP, a heurestic and also a linearized version of the models to be solved usign CPLEX. We compared the performaces to find the modified branch and bound for optimality and computational efficiency. For more details of the model
+We developed [Mixed Integer Programs](https://github.com/akrm3008/essential-search/blob/master/MIP_models.py) for both the models. Since the objectives were non-linear, we developed a modified [branch and bound](https://github.com/akrm3008/essential-search/blob/master/main.py) to solve the MIPs, a [heurestic](https://github.com/akrm3008/essential-search/blob/master/heurestic.py) and also a [linearized version](https://github.com/akrm3008/essential-search/blob/master/MIP_models.py) of the models to be solved usign Gurobi. We compared the performaces to find the modified branch and bound for optimality and computational efficiency. More details of the Bayesian Infernce model, search model and the results are available in the [pre-print](https://akrm3008.github.io/publications/paper4/) of the publication.
 
 
 
