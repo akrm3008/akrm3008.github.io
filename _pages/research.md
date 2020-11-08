@@ -35,17 +35,13 @@ We experimented with multiple models to develop a classifier that automates the 
 
 # Forecasting Future Shortage of Essential Commodities
 
-We also explored if these tweets had the potential to forecast the shortage levels few days ahead. Both the number of tweets about gas shortage on a day and the number of gas stations out of gas on the next day in a given city [followed a Poisson distribution](https://github.com/akrm3008/gasoline/blob/master/testing_tweet_arrival_distribution.R). We found the the number of tweest along with some other variables like distance from Hurricane, wind speed, evacuation order could prdict the number of gas stations ont the next day using Poisson Regression. There time varying correlation also and ARIMA could explain the variance. We developed a convex [Hybrid Loss Function (HLF)](https://github.com/akrm3008/gasoline/blob/master/forecasting_tweets.R) that combined ARIMA and Poisson Regression and performed gradient descent on a training set. We could explain greater variance then ARIMA and Poisson Regression using this method and could forecast shortages of gasoline in cities of Florida 1-day ahead and achieved MAPE of 22% improving over ARIMA (30%) and Poisson Regression (25%). For the details of our study about tweet detection and forecasting in our [publication](https://akrm3008.github.io/publications/paper1/).   
+We also explored if these tweets had the potential to forecast the shortage levels few days ahead. Both the number of tweets about gas shortage on a day and the number of gas stations out of gas on the next day in a given city [followed a Poisson distribution](https://github.com/akrm3008/gasoline/blob/master/testing_tweet_arrival_distribution.R).There time varying correlation also and ARIMA could explain the variance. We developed a convex [Hybrid Loss Function (HLF)](https://github.com/akrm3008/gasoline/blob/master/forecasting_tweets.R) that combined ARIMA and Poisson Regression and performed gradient descent on a training set. We could explain greater variance then ARIMA and Poisson Regression using this method and could forecast shortages of gasoline in cities of Florida 1-day ahead and achieved MAPE of 22% improving over ARIMA (30%) and Poisson Regression (25%). For the details of our study about tweet detection and forecasting in our [publication](https://akrm3008.github.io/publications/paper1/).   
 
 <img align="middle" src="https://akrm3008.github.io/images/web8.png?raw=true" alt="Photo" style="width: 800px; border-radius: 10px; padding: 8px 8px 8px 8px"/> 
 
 # Localisation of Shortge using Inference on Large Bayesian Networks
 
-Further, we explored if it is possible to localise the shortage to individual gas stations using the tweets as sensors. We developed a Bayesian network to infer the probability of shortage at a gas station at a given time on the basis of distance and time of the tweet of shortage. We modeled the distance and time between observation of shortage and the tweet about shortage as exponential random variables and developed a bayesian network and CPDs as shown below. 
-
-<img align="middle" src="https://akrm3008.github.io/images/web12.png?raw=true" alt="Photo" style="width: 600px; border-radius: 10px; padding: 8px 8px 8px 8px"/> 
-
-i is the index for set of gas statiosns and t is time of the day. O(i,t) is a Bernoulli random variable for the probability distribution of the observation of shortage at location i at time t. S(i,t) is a Bernoulli random variable for the probability distribution of shortage at location i at time t. D(p) is the random variable for the distance between post p about shortage and the observation of shortage. T(p) is the random variable for the time between post p about shortage and the observation of shortage. We solved the Bayesian Network and calculated the posterior probabilities of shortage using MCMC sampling methods. This methodology accurately predicted the number of stations out of gas in Florida.
+Further, we explored if it is possible to localise the shortage to individual gas stations using the tweets as sensors. We developed a Bayesian network to infer the probability of shortage at a gas station at a given time on the basis of distance and time of the tweet of shortage. We modeled the distance and time between observation of shortage and the tweet about shortage as exponential random variables and developed a bayesian network and CPDs . We solved the Bayesian Network and calculated the posterior probabilities of shortage using MCMC sampling methods. This methodology accurately predicted the number of stations out of gas in Florida.
 
  <img align="middle" src="https://akrm3008.github.io/images/web10.png?raw=true" alt="Photo" style="width: 600px; border-radius: 10px; padding: 8px 8px 8px 8px"/>
 
@@ -55,13 +51,8 @@ Many people trying to evacuate Florida during Hurricane Irma were not able to fi
 
 <img align="middle" src="https://akrm3008.github.io/images/web11.png?raw=true" alt="Photo" style="width: 600px; border-radius: 10px; padding: 8px 8px 8px 8px"/> 
 
+We developed mixed integer programs for both the models. Since the objectives were non-linear, we developed a modified branch and bound to solve the MIP, a heurestic and also a linearized version of the models to be solved usign CPLEX. We compared the performaces to find the modified branch and bound for optimality and computational efficiency. For more details of the model
 
 
-
-
-
-
-
-# Dynamic Supply and Redistribution of Essential Commodities (PPE's) according to changing demand
 
 
