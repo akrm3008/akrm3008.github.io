@@ -51,7 +51,7 @@ Further, we explored if it is possible to localise the shortage to individual ga
 
 Many people trying to evacuate Florida during Hurricane Irma were not able to find gas as they went around searching for gas stations with gas. They were stuck or delayed in following evacuation orders. We had developed a methodology of estimating of probability of shortage at different gas stations. We further developed models and solution methods for mininmising search time for the evacuators and maximising the probabity of finding gas given the probabiltiy distributions. The gasoline search problems can be explained as the problems of finding the path which minimizes the time /maximizes the probability for finding an entity on a graph with a finite probability of finding the entity at each vertex. 
 
-<img align="middle" src="https://akrm3008.github.io/images/web11.png?raw=true" alt="Photo" style="width: 1000px; border-radius: 10px; padding: 8px 8px 8px 8px"/> 
+<img align="middle" src="https://akrm3008.github.io/images/web11.png?raw=true" alt="Photo" style="width: 600px; border-radius: 10px; padding: 8px 8px 8px 8px"/> 
 
 
 
