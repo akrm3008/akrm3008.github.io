@@ -41,13 +41,19 @@ We also explored if these tweets had the potential to forecast the shortage leve
 
 # Localisation of Shortge using Inference on Large Bayesian Networks
 
-Further, we explored if it is possible to localise the shortage to individual gas stations using the tweets as sensors. We developed a Bayesian network to infer the probability of shortage at a gas station at a given time on the basis of distance and time of the tweet of shortage. We modeled the distance between observation of shortage and the tweet about shortage and developed a bayesian network and CPDs as shown in the figure. O(i,t) is a Bernoulli random variable for the probability distribution of the observation of shortage at location i at time t. S(i,t) is a Bernoulli random variable for the probability distribution of shortage at location i at time t. D(p) is the random variable for the distance between post p about shortage and the observation of shortage. T(p) is the random variable for the time between post p about shortage and the observation of shortage. We solved the Bayesian Network and calculated the posterior probabilities of shortage using MCMC sampling methods. This methodology accurately predicted the number of stations out of gas in Floida.
+Further, we explored if it is possible to localise the shortage to individual gas stations using the tweets as sensors. We developed a Bayesian network to infer the probability of shortage at a gas station at a given time on the basis of distance and time of the tweet of shortage. We modeled the distance and time between observation of shortage and the tweet about shortage as exponential random variables and developed a bayesian network and CPDs as shown in the figure. O(i,t) is a Bernoulli random variable for the probability distribution of the observation of shortage at location i at time t. S(i,t) is a Bernoulli random variable for the probability distribution of shortage at location i at time t. D(p) is the random variable for the distance between post p about shortage and the observation of shortage. T(p) is the random variable for the time between post p about shortage and the observation of shortage. We solved the Bayesian Network and calculated the posterior probabilities of shortage using MCMC sampling methods. This methodology accurately predicted the number of stations out of gas in Floida.
 
 <img align="middle" src="https://akrm3008.github.io/images/web9.png?raw=true" alt="Photo" style="width: 1000px; border-radius: 10px; padding: 8px 8px 8px 8px"/> 
 
  <img align="middle" src="https://akrm3008.github.io/images/web10.png?raw=true" alt="Photo" style="width: 600px; border-radius: 10px; padding: 8px 8px 8px 8px"/>
 
 # Optimising the Gasoline Search Path for Evacuators 
+
+Many people trying to evacuate Florida during Hurricane Irma were not able to find gas as they went around searching for gas stations with gas. They were stuck or delayed in following evacuation orders. We had developed a methodology of estimating of probability of shortage at different gas stations. We further developed models and solution methods for mininmising search time for the evacuators and maximising the probabity of finding gas given the probabiltiy distributions. The gasoline search problems can be explained as the problems of finding the path which minimizes the time /maximizes the probability for finding an entity on a graph with a finite probability of finding the entity at each vertex. 
+
+<img align="middle" src="https://akrm3008.github.io/images/web11.png?raw=true" alt="Photo" style="width: 1000px; border-radius: 10px; padding: 8px 8px 8px 8px"/> 
+
+
 
 
 
