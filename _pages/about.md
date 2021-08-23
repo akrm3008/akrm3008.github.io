@@ -10,7 +10,7 @@ redirect_from:
 
 Hi! Welcome to my website.
 
-I am Ph.D. in Operations Research. In the past year my work has been focussed on applications of AI in Fianace. Currently, I am working in application of machine learning to detect manipulations in financial markets. 
+I am a Sr Applied AI/ML Assoc. in JPMorganChase & Co. In the past year my work has been focussed on applications of AI in Fianace. Currently, I am working in application of machine learning to detect manipulations in financial markets. 
 
 Formerly, I had pursued my Ph.D. in Operations Research at University at Buffalo, SUNY. I was advised by [Dr. Rajan Batta](http://engineering.buffalo.edu/home/school/about/people/rajan-batta.html) and [Dr. Qing He](http://engineering.buffalo.edu/civil-structural-environmental/people/faculty_directory/qing-he.html).
 
