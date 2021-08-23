@@ -17,7 +17,7 @@ locale                   : "en-US"
 title                    : "Abhinav Khare"
 title_separator          : "-"
 name                     : &name "Abhinav Khare"
-description              : &description "Ph.D. candidate in Operations Research"
+description              : &description "Sr. Applied AI/ML Associate, JPMorgan Chase & Co."
 url                      : https://akrm3008.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "akrm3008/akrm3008.github.io"
@@ -89,7 +89,7 @@ analytics:
 author:
   name             : "Abhinav Khare"
   avatar           : "profile2.jpg"
-  bio              : "Ph.D. candidate, Department of Industrial & Systems Engineering, University at Buffalo, SUNY"
+  bio              : "Ph.D. in Operations Research, Department of Industrial & Systems Engineering, University at Buffalo, SUNY"
                       
   location         : Buffalo, NY
   employer         :
