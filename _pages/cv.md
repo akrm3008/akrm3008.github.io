@@ -11,12 +11,14 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Operations Research, University at Buffalo, SUNY, 2017-20 (expected)
+* Ph.D. in Operations Research, University at Buffalo, SUNY, 2017-20 
 * M.S. in Operations Research, University at Buffalo, SUNY, 2015-17
 * B.E. in Industrial Engineering, Delhi College of Engineering, 2009-13
 
 Work experience
 ======
+* Research Scientist, Amazon Alexa NLU (2021 - Present)
+* Sr. Applied AI/ML Associate, JPMorgan Chase & Co. (2020-2021)
 * Graduate Research Assitant, SUNY Research Foundation, 2019-2020 
 * Graduate Teaching Assitant, Applied Operations Research (IE-500), Dept. of Industrial and Systems Engineering, UB, Fall 2019
 * Data Scientist Intern, NBCUniversal Media LLC, Summer 2019
