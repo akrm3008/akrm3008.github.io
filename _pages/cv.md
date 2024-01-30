@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* Research Scientist, Amazon Alexa NLU (2021 - Present)
+* Research Scientist, Amazon Alexa NLU (2021 - 2023)
 * Sr. Applied AI/ML Associate, JPMorgan Chase & Co. (2020-2021)
 * Graduate Research Assitant, SUNY Research Foundation, 2019-2020 
 * Graduate Teaching Assitant, Applied Operations Research (IE-500), Dept. of Industrial and Systems Engineering, UB, Fall 2019
@@ -34,30 +34,6 @@ Skills
 * Mathematical Optimisations
 * Statistical Modelling 
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Awards
-======
-* Summa Cum Laude Honors at INFROMS 2017 secretary of student chapter of INFORMS at University at Buffalo for 2017-18
-* Magna Cum Laude Honors at INFORMS 2018 secretary of student chapter of INFORMS at University at Buffalo for 2018-19
-* Winner of MIT Solve at United Nation's Socio-Economic Council 2017
-* Finalist at the Formula Student, Silverstone, UK, July 2012
-* Winner, Junior Science Talent Search Examination, Indian 2007
-
-Positions of Responsibility
-======
-* President, Graduate Student Association, Department of Industrial Systems Engineering, UB for 2017-2018
-* Secretary, INOFRMS Student Chapter at University at Buffalo from 2017-2019
 
 
 
